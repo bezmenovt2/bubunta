@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" score="1" last-seen="1626088318"/>
+    <application id="firefox.desktop" score="60" last-seen="1626089258"/>
+    <application id="org.gnome.Terminal.desktop" score="76" last-seen="1626089257"/>
+    <application id="gnome-initial-setup.desktop" score="3" last-seen="1626086098"/>
+    <application id="libreoffice-writer.desktop" score="8" last-seen="1626088809"/>
+    <application id="gnome-control-center.desktop" score="1" last-seen="1626086127"/>
+    <application id="update-manager.desktop" score="1" last-seen="1626086167"/>
+  </context>
+</application-state>
